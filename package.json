@@ -1,7 +1,7 @@
 {
   "name": "homebridge-tuya-india",
 
-  "version": "0.0.2",
+  "version": "0.0.3",
 
   "description": "🏠 Offical Homebridge plugin for TuyAPI ",
   "main": "index.js",
