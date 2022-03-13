@@ -9,9 +9,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "tuya-lan": "./bin/cli.js",
-    "tuya-lan-find": "./bin/cli-find.js",
-    "tuya-lan-decode": "./bin/cli-decode.js"
+    "tuya-lan-india": "./bin/cli.js",
+    "tuya-lan-find-india": "./bin/cli-find.js",
+    "tuya-lan-decode-india": "./bin/cli-decode.js"
   },
   "repository": {
     "type": "git",
